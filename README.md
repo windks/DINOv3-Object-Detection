@@ -25,7 +25,7 @@ Production-ready object detection using pretrained DINOv3 vision transformers. *
 ### 1. UV 사용 (권장)
 ```bash
 # 저장소 클론
-git clone <repository-url>
+git clone https://github.com/euisuk-chung/DINOv3-Object-Detection.git
 cd Dino_v3_OD
 
 # UV로 의존성 설치
